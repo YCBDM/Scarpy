@@ -46,4 +46,4 @@ class Fdfs():
 
 
 if __name__ == '__main__':
-    Fdfs.upload('timg.jpg')
+    print(Fdfs.upload('timg.jpg'))
